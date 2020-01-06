@@ -1,0 +1,4 @@
+com\johnabbott\test\configuration\WebAppInitializer.class
+com\johnabbott\test\configuration\WebMvcConfig.class
+com\johnabbott\test\controller\TestController.class
+com\johnabbott\test\model\Student.class
